@@ -112,6 +112,21 @@
 }
 
 
+
+
+.product-image  img{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.imgg img {
+  width: 180px;
+  height: 150px;
+  object-fit: cover;
+}
+
+
 /* PRODUCT INFO */
 
 .product-info {
